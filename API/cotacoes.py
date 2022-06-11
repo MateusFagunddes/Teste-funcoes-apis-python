@@ -48,4 +48,4 @@ while run:
     else:
         input('Pressione enter para finalizar...')
         run = False ;
-        
+              
