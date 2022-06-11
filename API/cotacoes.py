@@ -46,6 +46,6 @@ while run:
         if ask == 's':
             desenhaDashBoard(cotacoes())
     else:
-        input('Pressione enter para finalizar.')
+        input('Pressione enter para finalizar...')
         run = False ;
         
