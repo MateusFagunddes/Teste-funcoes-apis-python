@@ -32,3 +32,4 @@ while running:
 else:
     input('...')
 
+print('git')
