@@ -12,4 +12,7 @@
 - /funcoes -> atividades genéricas para treinar logica usando funções 
 - /logica basica -> atividades genéricas para treinar logica usando operadores 
 - end 
+<<<<<<< HEAD
 - end 
+=======
+>>>>>>> d934e8058ad946661a9a5824dd38fbaab2ec7080
