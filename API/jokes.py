@@ -1,4 +1,3 @@
-from webbrowser import get
 import requests
 import json
 from time import sleep
@@ -32,3 +31,4 @@ while running:
         running = False
 else:
     input('...')
+
