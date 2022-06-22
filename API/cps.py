@@ -8,5 +8,3 @@ nomes =  ['cep', 'tipo de endereço', 'nome do endereço', 'endereço', 'estado'
 for i,v in enumerate(respCep):
     print(f'{nomes[i]}: {respCep[v]}')
 
-
-

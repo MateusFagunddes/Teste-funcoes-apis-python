@@ -31,6 +31,3 @@ while running:
         running = False
 else:
     input('...')
-
-print('git')
-print('git')
